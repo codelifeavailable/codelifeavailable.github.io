@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>Medical instrument standard ISO13485 quality management system</title>
+    <link href="/2026/08/30/medical%20instroment%20standard%20ISO13485%20quality%20management%20system/"/>
+    <url>/2026/08/30/medical%20instroment%20standard%20ISO13485%20quality%20management%20system/</url>
+    
+    <content type="html"><![CDATA[<p>学习目标<br>完成本模块后，你将能够：<br>       - 理解ISO 13485标准的目的和适用范围<br>       - 掌握质量管理体系的核心要求<br>       - 了解文档控制和记录管理的要求<br>       - 理解设计和开发过程的质量要求<br>       - 应用ISO 13485要求建立质量管理体系</p><span id="more"></span><p>前置知识<br>质量管理基础概念<br>医疗器械法规基础<br>组织管理知识<br>标准概述<br>ISO 13485是专门针对医疗器械行业的质量管理体系标准，全称为”Medical devices - Quality management systems - Requirements for regulatory purposes”。<br>该标准基于ISO 9001，但更加强调满足法规要求和风险管理。</p><p>标准特点<br>与ISO 9001相比，ISO 13485的特点：<br>        - 法规导向：强调满足法规和安全要求<br>        - 风险管理：要求整合ISO 14971风险管理<br>        - 文档要求：更严格的文档控制要求<br>        - 可追溯性：强调产品可追溯性<br>        - 验证和确认：明确区分验证和确认活动</p><p>适用范围<br>ISO 13485适用于：<br>         - 医疗器械的设计和开发<br>         - 医疗器械的生产<br>         - 医疗器械的安装和服务<br>         - 医疗器械的销售和分销<br>         - 相关服务的提供</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Medical software standard IEC62304</title>
+    <link href="/2026/08/30/medical%20software%20standard%20IEC62304/"/>
+    <url>/2026/08/30/medical%20software%20standard%20IEC62304/</url>
+    
+    <content type="html"><![CDATA[<p>学习目标<br>完成本模块后，你将能够： - 理解IEC 62304标准的适用范围和核心要求 - 掌握医疗器械软件安全分类方法 - 了解软件开发生命周期的各个过程 - 理解不同安全等级对应的文档要求 - 应用IEC 62304要求到实际项目中</p><p>前置知识<br>软件开发基础知识<br>医疗器械基本概念<br>质量管理体系基础<br>标准概述</p><span id="more"></span><p>IEC 62304是国际电工委员会（IEC）发布的医疗器械软件生命周期过程标准，全称为”Medical device software - Software life cycle processes”。该标准定义了医疗器械软件的开发、维护和风险管理过程。</p><p>标准适用范围<br>IEC 62304适用于： - 作为医疗器械的软件 - 医疗器械的组成部分的软件 - 用于生产医疗器械的软件（部分要求）</p><p>标准结构<br>IEC 62304标准包含以下主要章节： 1. 软件开发过程 2. 软件维护过程 3. 软件风险管理过程 4. 软件配置管理过程 5. 软件问题解决过程</p><p>软件安全分类<br>IEC 62304根据软件故障可能造成的危害程度，将医疗器械软件分为三个安全等级：</p><p>Class A（低风险）<br>定义：软件故障不可能导致伤害</p><p>特征： - 软件故障不会对患者或操作者造成伤害 - 软件仅用于信息提供或数据记录 - 没有诊断或治疗功能</p><p>示例： - 患者信息管理系统 - 医疗设备使用记录软件 - 简单的数据显示软件</p><p>Class B（中风险）<br>定义：软件故障可能导致轻微伤害</p><p>特征： - 软件故障可能造成可逆的轻微伤害 - 软件参与诊断或监测，但不直接控制治疗 - 有人工干预机制</p><p>示例： - 血压监测软件 - 心电图分析软件 - 医学影像处理软件</p><p>Class C（高风险）<br>定义：软件故障可能导致死亡或严重伤害</p><p>特征： - 软件故障可能造成不可逆的严重伤害或死亡 - 软件直接控制治疗或生命支持功能 - 缺乏有效的风险缓解措施</p><p>示例： - 输液泵控制软件 - 呼吸机控制软件 - 放射治疗计划软件 - 心脏起搏器软件</p><p>更多内容请访问: <a href="https://x-gen-lab.github.io/medical-embedded-knowledge/regulatory-standards/iec-62304/index.html#class-a">https://x-gen-lab.github.io/medical-embedded-knowledge/regulatory-standards/iec-62304/index.html#class-a</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2026/08/30/hello-world/"/>
+    <url>/2026/08/30/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><span id="more"></span><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
